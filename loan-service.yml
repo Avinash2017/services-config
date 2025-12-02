@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to EazyBank Loan related local APIs "
+  contactDetails:
+    name: "John Doe - Local Lead"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
