@@ -2,7 +2,7 @@ build:
   version: v2
 
 loans:
-  message: "Welcome to EazyBank Loan related QA APIs "
+  message: "Welcome to EazyBank Loan related QA's APIs "
   contactDetails:
     name: "John Doe - QA Lead"
     email: "john@eazybank.com"
