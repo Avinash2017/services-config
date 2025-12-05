@@ -1,3 +1,6 @@
+build:
+  version: v3
+
 loans:
   message: "Welcome to EazyBank Loan related local APIs "
   contactDetails:
